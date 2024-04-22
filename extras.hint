@@ -1,0 +1,131 @@
+<!-- --contents
+ <main>
+   <!--short-mssage-->
+      <section class="message">
+         <h3>admission! admission!! admission in progress!!!</h3>
+         <p>come and enroll your child with us</p>
+      </section> 
+
+
+   <!-----about us---->
+      <section class="about" id="about">
+            <div class="about-center section-center">
+               <!---about title---->
+                  <div class="title">
+                     <h3>about <span>us</span></h3>
+                     <div></div>
+                  </div>
+               <!---end of about title---->
+                  <div class="about-content">
+                  <!---about image-->
+                     <div class="about-img">
+                        <img src="./images/enquire.jpg" alt="">
+                     </div>
+                  <!----end of about image-->
+
+            <!-------about info--------->
+                     <div class="about-info">
+            <!------button container---------->
+                        <div class="btn-container">
+                              <button class="about-btn active" data-id="history">history</button>
+                              <button class="about-btn" data-id="vision">vision</button>
+                        </div>
+            <!----end of button container----->
+
+                        <div class="about-time">
+               <!-----content------>
+                           <div class="content active" id="history">
+                              <p> <strong>
+                                 Beautiful Beginners Nursery and Primary School
+                              </strong> was established in 2014. A little history before we move on. 
+                           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, omnis! Reiciendis quaerat ipsam aspernatur tenetur fuga neque non! Ab voluptatem quis culpa pariatur, assumenda fugiat nemo ratione libero non, optio tempora corrupti in repellendus aut officia molestiae deleniti unde vitae recusandae eveniet odio impedit a laudantium. Voluptatibus eligendi optio distinctio! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus officiis facilis hic neque, voluptas aliquam quaerat provident ab. Fugiat labore repellendus sit, quis nesciunt consectetur consequuntur dicta autem. Expedita asperiores voluptatum, tempora modi maiores, perspiciatis, numquam quod magni tempore sit esse. Obcaecati culpa dolor nemo et officia necessitatibus eaque nesciunt. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos aspernatur quidem impedit inventore soluta aliquam alias debitis non reprehenderit odit dicta cupiditate dolorum cumque necessitatibus voluptate quia, quaerat aperiam veritatis vero ex vitae illo? Voluptatibus, ipsum rerum? Saepe, earum modi ipsum minus debitis quis! Nostrum sit officiis animi mollitia voluptas. </p>
+                           </div>
+                  <!----end---->
+                           <div class="content" id="vision">
+                              <p>our vision is to help 
+                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis iste dignissimos, voluptatibus itaque distinctio laudantium sapiente corrupti, nemo doloribus aperiam suscipit dolorem nostrum, maxime consectetur. Ea laborum inventore provident libero voluptas, iste alias cumque doloremque quasi, eveniet pariatur corporis hic dolorem dolore nostrum aliquid dolor quod nemo quia rem, recusandae autem vero neque aliquam! Voluptatibus deleniti optio voluptatem quos dolore veniam pariatur temporibus officia sapiente odio consequatur suscipit, esse voluptas in illum aperiam, earum fugit commodi a sit cupiditate natus. Ex inventore impedit, sunt, velit magnam, ullam dolorum neque perferendis expedita molestiae blanditiis nihil temporibus? Quaerat libero dicta aperiam nam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam cumque temporibus eos similique sequi itaque, architecto mollitia excepturi tenetur libero tempora voluptatum enim autem. Beatae rerum sapiente soluta voluptates perferendis necessitatibus ducimus sint, expedita corrupti nam tenetur eius delectus maxime ad, nesciunt impedit enim in omnis alias repudiandae at repellat.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+            </div>
+      </section>
+
+
+      <section class="motive">
+            <div class="section-center motive-center">
+               <!---first card-->
+               <div class="card card-1">
+                     <div class="card-title">
+                        <div>b</div>
+                        <h3>building</h3>
+                     </div>
+                        <p>Building a solid foundation from the scratch for your child/ward is what we do best. We help your child work towards his/her goal by being focused on education </p>
+                     <div class="card-footer">
+                        <button class="card-btn btn">enroll now</button>
+                     </div>
+               </div>
+         <!----end------>
+               <!---first card-->
+               <div class="card card-1">
+                     <div class="card-title">
+                        <div>b</div>
+                        <h3>building</h3>
+                     </div>
+                        <p>Building a solid foundation from the scratch for your child/ward is what we do best. We help your child work towards his/her goal by being focused on education </p>
+                     <div class="card-footer">
+                        <button class="card-btn btn">enroll now</button>
+                     </div>
+               </div>
+         <!----end------>
+               <!---first card-->
+               <div class="card card-1">
+                     <div class="card-title">
+                        <div>b</div>
+                        <h3>building</h3>
+                     </div>
+                        <p>Building a solid foundation from the scratch for your child/ward is what we do best. We help your child work towards his/her goal by being focused on education </p>
+                     <div class="card-footer">
+                        <button class="card-btn btn">enroll now</button>
+                     </div>
+               </div>
+         <!----end------>
+               <!---first card-->
+               <div class="card card-1">
+                     <div class="card-title">
+                        <div>b</div>
+                        <h3>building</h3>
+                     </div>
+                        <p>Building a solid foundation from the scratch for your child/ward is what we do best. We help your child work towards his/her goal by being focused on education </p>
+                     <div class="card-footer">
+                        <button class="card-btn btn">enroll now</button>
+                     </div>
+               </div>
+         <!----end------>
+               <!---first card-->
+               <div class="card card-1">
+                     <div class="card-title">
+                        <div>b</div>
+                        <h3>building</h3>
+                     </div>
+                        <p>Building a solid foundation from the scratch for your child/ward is what we do best. We help your child work towards his/her goal by being focused on education </p>
+                     <div class="card-footer">
+                        <button class="card-btn btn">enroll now</button>
+                     </div>
+               </div>
+         <!----end------>
+
+
+            </div>
+      </section>
+ </main> 
+
+ <!---inquire-->
+ <a href="#home" class="inquire">
+   <!-- <img src="./images/enquire.jpg" alt=""> -->
+ </a>
+
+   .author-card .author-img img
+
+   .author-card .author-img img
