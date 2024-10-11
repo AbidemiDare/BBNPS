@@ -457,6 +457,17 @@ hero section
   height: 100%;
   object-fit: cover;
   z-index: -2;
+  display: none;
+}
+
+#bg-fallback img {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
 }
 
 .hero::after {
@@ -587,6 +598,16 @@ hero section
   }
 }
 
+@media screen and (min-width: 768px) {
+  .video-container {
+    display: block;
+  }
+
+  #bg-fallback {
+    display: none;
+  }
+}
+
 @media screen and (min-width: 800px) {
   .hero-info {
     width: 80vw;
@@ -619,6 +640,8 @@ hero section
   -moz-border-radius: var(--border-radius);
   -ms-border-radius: var(--border-radius);
   -o-border-radius: var(--border-radius);
+  opacity: 0;
+  visibility: hidden;
 }
 
 .switch-btn span {
@@ -656,6 +679,13 @@ hero section
 
 .slide .switch {
   left: 50%;
+}
+
+@media screen and (min-width: 768px) {
+  .switch-btn {
+    opacity: 1;
+    visibility: visible;
+  }
 }
 
 /* 

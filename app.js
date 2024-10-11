@@ -41,6 +41,11 @@ btn.addEventListener("click", function () {
   }
 });
 
+// if (window.innerWidth <= 768) {
+//   document.querySelector(".video-container").style.display = "none";
+//   document.getElementById("bg-fallback").style.display = "block";
+// }
+
 // ********* about **************
 const btns = document.querySelectorAll(".about-btn");
 const content = document.querySelectorAll(".content");
