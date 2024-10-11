@@ -170,15 +170,23 @@ li {
   -ms-transition: var(--transition);
   -o-transition: var(--transition);
   border-radius: var(--border-radius);
-  -webkit-border-radius: var(--border-radius);
-  -moz-border-radius: var(--border-radius);
-  -ms-border-radius: var(--border-radius);
-  -o-border-radius: var(--border-radius);
+  -webkit-border-radius: ;
+  -moz-border-radius: ;
+  -ms-border-radius: ;
+  -o-border-radius: ;
 }
 
 .btn:hover {
   background: var(--secondaryColor-600);
   color: var(--white);
+}
+
+.main-content {
+  display: none;
+}
+
+.show {
+  display: block;
 }
 
 /*
@@ -976,7 +984,7 @@ preloader
   display: grid;
   place-items: center;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   background: var(--white);
   z-index: 999;
   visibility: visible;
