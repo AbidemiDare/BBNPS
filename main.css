@@ -668,7 +668,7 @@ message
   display: grid;
   place-content: center;
   margin: 0 auto;
-  height: 40vh;
+  height: 50vh;
   width: 100%;
   margin-top: 1.2rem;
 }
@@ -804,7 +804,7 @@ about
 }
 
 .about-img {
-  height: 300px;
+  height: 260px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 3rem;
@@ -1341,9 +1341,9 @@ message
   display: grid;
   place-content: center;
   margin: 0 auto;
-  height: 40vh;
+  height: 50vh;
   width: 100%;
-  margin-top: 1.2rem;
+  padding: 2rem 0;
   background: var(--primaryColor-100);
 }
 
@@ -1369,7 +1369,7 @@ message
   height: 100%;
   background: var(--primaryColor-100);
   animation: name 1s ease forwards;
-  -webkit-animation: ;
+  -webkit-animation: name 1s ease forwards;
   animation-delay: 10s;
 }
 
